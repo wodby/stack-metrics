@@ -1,0 +1,7 @@
+name: metrics
+title: Metrics
+icon: metrics
+services:
+  - name: kube-state-metrics
+    title: Kubernetes state metrics
+    service: monitoring-kube-state-metrics
