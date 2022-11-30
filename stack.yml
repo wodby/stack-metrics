@@ -4,4 +4,8 @@ icon: metrics
 services:
   - name: kube-state-metrics
     title: Kubernetes state metrics
-    service: monitoring-kube-state-metrics
+    service: kube-state-metrics
+  - name: metrics-server
+    title: Metrics server
+    service: metrics-server
+    optional: true
