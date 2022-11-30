@@ -8,4 +8,3 @@ services:
   - name: metrics-server
     title: Metrics server
     service: metrics-server
-    optional: true
