@@ -1,6 +1,7 @@
 name: metrics
 title: Metrics
 icon: metrics
+docs: https://wodby.com/docs/2.0/stacks/catalog/system/
 services:
   - name: kube-state-metrics
     title: Kubernetes state metrics
